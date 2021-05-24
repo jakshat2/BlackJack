@@ -1,1 +1,1 @@
-A simple Black Jack Game using HTML + CSS + JavaScript
+A simple Black Jack Game using HTML + SCSS + JavaScript
